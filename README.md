@@ -15,7 +15,7 @@ Nesta API possuímos 5 diferentes rotas:
 - **Delete**  
   Exclusão de um repositório.  
   Rota: [DELETE] http://localhost:3333/repositories/:id
-- **Like**  
+### Like  
   Através dessa rota, o repositório recebe +1 na contagem de likes.  
   Rota: [POST] http://localhost:3333/repositories/:id/like
 
